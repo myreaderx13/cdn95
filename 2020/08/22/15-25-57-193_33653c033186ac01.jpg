@@ -1,0 +1,1230 @@
+<!Doctype html>
+<html lang="en-US">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="https://kk.org/cooltools/wp-content/themes/ct2016/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="https://kk.org/cooltools/wp-content/themes/ct2016/css/grid.css?v=1580839058">
+    <link rel="stylesheet" type="text/css" href="https://kk.org/cooltools/wp-content/themes/ct2016/css/style.css?v=1581535989">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:700,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+    <meta name='contextly-page' id='contextly-page' content='{"url":"https:\/\/kk.org\/cooltools","type":"home","type_term":""}' />
+<title>Cool Tools | Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love.</title>
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.11.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.11.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-71316-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-71316-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<link rel='stylesheet' id='CMA-css-css'  href='https://kk.org/cooltools/wp-content/plugins/cm-answers-pro-new/views/resources/app.css?ver=4.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://kk.org/cooltools/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://kk.org/cooltools/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://kk.org/cooltools/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/kk.org\/cooltools","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.11.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/kk.org\/cooltools\/wp-admin\/admin-ajax.php","security":"3fcc17d5a1","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/kk.org\/cooltools\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/kk.org\/cooltools\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.4","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kk.org/cooltools/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kk.org/cooltools/wp-includes/wlwmanifest.xml" /> 
+<link rel="baseurl" href="https://kk.org/cooltools" />
+
+<script type="text/javascript">
+	(function (w, d, id, ns, s) {
+		var c = w[ns] = w[ns] || {};
+		if (!c.ready) {
+			c.q = [];
+			c.ready = function () {
+				c.q.push(arguments);
+			};
+						c.ready.apply(c, ["expose",{"wp\/widgets":{"dependencies":["widgets"],"js":["https:\/\/assets.context.ly\/wp-plugin\/6.0.4\/js\/contextly-wordpress.js"],"foreign":true}}]);
+						c.ready.apply(c, ["libraries",{"jquery":false}]);
+						c.ready.apply(c, ["load","wp\/widgets"]);
+					}
+
+				if (!d.getElementById(id)) {
+			var e = d.createElement(s);
+			e.id = id;
+			e.src = "https:\/\/assets.context.ly\/kit\/6.latest\/loader.js";
+			var h = d.getElementsByTagName(s)[0];
+			h.parentNode.insertBefore(e, h);
+		}
+			})(window, document, 'ctx-loader', 'Contextly', 'script');
+
+	(function(c, ns){var v=c[ns]=c[ns]||{};v["appId"]="kkcooltools";
+	v["https"]=true;
+	v["client"]={"client":"wp","version":"6.0.4"};
+	})(Contextly,"overrides");
+(function(c, ns){var v=c[ns]=c[ns]||{};v["ajax_url"]="https:\/\/kk.org\/cooltools\/wp-admin\/admin-ajax.php";
+	})(Contextly,"wpdata");
+</script>
+<meta property="og:site_name" content="Cool Tools" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="446694138763690" />
+<meta property="og:title" content="Cool Tools" />
+<meta property="og:description" content="Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love." />
+<meta property="og:url" content="https://kk.org/cooltools" />
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+</head>
+<body class="home blog">
+    <section class="wrapper">
+        <header>
+            <div class="logo col-8">
+                <a href="https://kk.org/cooltools" title="Cool Tools"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/logo.png" alt="logo"></a>
+            </div>
+            <div class="search col-4">
+                <form action="https://kk.org/cooltools" name="search_form" method="get">
+                    <input type="text" class="search-input" placeholder="search" name="s" />
+                </form> 
+            </div>
+        </header>
+        <div class="mid-container">
+  <div class="col-9 content-area">
+    <div class="content">
+      <!--Yellow--> <!-- Today's Review -->
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>21 August 2020</h2>
+            </div>
+            <div class="content-body">
+							              <img class="primary" src="https://kk.org/cooltools/files/2020/08/itamar.jpg" alt="img">
+							              <div class="description">
+                <h2><a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/">Itamar Kubovy, curator of live experiences</a></h2>
+                <h3>Cool Tools Show 240: Itamar Kubovy</h3>
+
+                
+                <p>Our guest this week is Itamar Kubovy. Itamar is a creator and curator of live experiences. He studied philosophy; ran theaters in Germany and Sweden; wrote and directed plays and films, and for 16 years was Executive Creative Producer of the globally acclaimed dance company Pilobolus. For the Freeman company, Itamar co-founded and co-leads Inside Live, a platform where innovators in hybrid events share knowledge and collaborate. Most recently, Itamar launched <a href="https://www.decameronrow.com/" target="_blank" rel="noopener">Decameron Row</a>, a virtual street of 100 windows where artists from around the world share one-minute video postcards of their work in isolation.</p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879294817%3Fsecret_token%3Ds-CLCrsjxkHmN&#038;color=%23ff5500&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true"></iframe>
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cool-tools" title="Cool Tools" target="_blank" style="color: #cccccc; text-decoration: none;">Cool Tools</a> · <a href="https://soundcloud.com/cool-tools/240-itamar-kubovy/s-CLCrsjxkHmN" title="240: Itamar Kubovy" target="_blank" style="color: #cccccc; text-decoration: none;">240: Itamar Kubovy</a></div>
+<p><a href="https://itunes.apple.com/us/podcast/cool-tools-show-and-tell/id605920446?mt=2">Subscribe to the Cool Tools Show on iTunes</a> | <a href="http://feedpress.me/cooltoolsshow">RSS</a> | <a href="https://drive.google.com/file/d/1zduadh2OnkYSyPUDsn5hSXH_J91N0s_R/view?usp=sharing" rel="noopener" target="_blank">Transcript</a> | <a href="http://kk.org/cooltools/tag/cool-tools-show/">See all the Cool Tools Show posts on a single page</a></p>
+<p>&nbsp;</p>
+<p><strong>Show notes:</strong></p>
+<p><img class="alignnone size-full wp-image-36869" src="https://kk.org/cooltools/files/2020/08/nocomment.jpg" alt="nocomment" width="500" height="281" /><br />
+<a href="https://www.euronews.com/news/nocomment" target="_blank" rel="noopener">No Comment TV</a>, Euronews<br />
+It&#8217;s sort of late jet lag nights in European hotels. There&#8217;s a cable news network in Europe called Euronews and late at night when they would otherwise stop programming, they started doing this thing where they just show B-roll of various things during the day in the last couple of days that happen. And it&#8217;s entirely unedited B-roll. It&#8217;s called No Comment, and essentially it&#8217;s just an endless sequence of one or two minute snippets of B-roll from all over the world that news journalists shot but didn&#8217;t end up using. And they just sort of throw them up on the site. And it&#8217;s funny since quarantine and since the entire kind of change in the world has taken place over the last few months, it feels like everything we read and everything we see is so intentional in some way, everything seems planned to get us to think something, we don&#8217;t know if it&#8217;s a bot or something real. And there&#8217;s something about unintentional footage of the world right now that almost seems accidental that feels sort of soothing to me. Everything feels remotely somehow adjacent to the news, but it&#8217;s an angle that you&#8217;ve never seen. And it has no story to tell other than just letting you be there for a minute and a half.</p>
+<p><img class="alignnone size-full wp-image-36168" src="https://kk.org/cooltools/files/2020/05/AstronautIO.gif" alt="AstronautIO" width="582" height="293" /><br />
+<a href="http://astronaut.io/" target="_blank" rel="noopener">Astronaut.io</a> and <a href="https://www.reddit.com/r/ObscureMedia/" target="_blank" rel="noopener">r/ObscureMedia</a><br />
+Astronaut.io is an algorithm-driven site that basically combs YouTube for videos that have either been seen zero times or one time. And it&#8217;s so weird and so good. And you realize that there&#8217;s this extra special feeling of like you&#8217;ve uncovered the tomb of King Tut that hasn&#8217;t been seen in 4,000 years, except it just randomly got loaded from someone&#8217;s pocket four days ago. It&#8217;s just such a strange feeling that is really enabled by the technology but also brings you to some very human place.</p>
+<p>Obscure Media Is a subreddit that is a little bit different from the others. And it&#8217;s essentially just a subreddit where people collect strange pieces of created media from any time in the past. So, just odd, strange commercials of actors you know that were made in Bulgaria, or just the kind of strange sort of throw away detritus of media. This time, it&#8217;s all stuff that was very much made at some point. It&#8217;s very intentional, but it&#8217;s so irrelevant at this point that it kind of loses its intention and just feels like, &#8220;Wow, someone in Italy in the sixties actually dressed up as a pineapple and really tried to sell you a car this way.&#8221; And it somehow reveals a lot of the kind of strange foibles of the human imagination.</p>
+<p><img class="alignnone size-full wp-image-36870" src="https://kk.org/cooltools/files/2020/08/jabra85h.jpg" alt="jabra85h" width="500" height="499" /><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B07RS8B5HV/cooltoolsshow-20" target="_blank" rel="noopener">Jabra Elite 85h </a><br />
+These are over-the-ear, clunky Jabra 85h&#8217;s, which are Bluetooth, noise-canceling sort of giant things. And they&#8217;re great. They&#8217;re just really good. They allow you to do all the things that people pretend they can do with earbuds, and they&#8217;re way less comfortable and they&#8217;re hot and whatever, but they really work. And I found that they&#8217;ve helped me so much to be able to stay focused during this time when there&#8217;s so much stuff going on around. And there&#8217;s so much competition for concentration, both visual and our environments where we have our families or whoever&#8217;s around us all the time. It&#8217;s just really helped me focus in a way that I feel very appreciative to the product. I think for me, what it does is it just creates a different space in your head. It successfully does that, even when you&#8217;re outdoors, even when there&#8217;s a lot of stuff going on around you. It allows you to sort of be with the person you&#8217;re talking to in a different way. It literally puts you in a bubble.</p>
+<p><a href="https://kk.org/cooltools/files/2020/08/mstea.jpg"><img class="alignnone size-full wp-image-36871" src="https://kk.org/cooltools/files/2020/08/mstea.jpg" alt="m&amp;stea" width="500" height="500" /></a><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B07BL21NXF/cooltoolsshow-20" target="_blank" rel="noopener">UK Marks &amp; Spencer Luxury Gold Tea Bags</a><br />
+What I&#8217;m recommending is Marks &amp; Spencer tea. Nothing fancy, a hundred bags per box. No beautiful tin, no beautiful wood covering. For the umami of tea — which has been quite a treat sometimes during this period where you kind of put a little milk in it at night or in the morning, and really feel the comfort of a sort of creamy cup of tea — this can&#8217;t be beat. For a long time, I was literally getting people who went to London to go to the basement of Marks and Spencer and get me two boxes of this tea. And I think with the sort of globalization over the years, Amazon now allows you to just buy it with a click. It&#8217;s a particular blend, and they blend different origins of tea together in the way that one might blend coffee beans from different places together to get a particular taste. And it&#8217;s quite strong, so it really gives you a flavorful tea and dark, but never has any bitterness to it. It’s just very smooth. There&#8217;s nothing fancy about it. And it&#8217;s just an enormous, enormous improvement over Lipton or something like that.</p>
+<p><em>We have hired professional editors to help create our weekly podcasts and video reviews. So far, Cool Tools listeners have pledged $390 a month. Please consider <a href="https://www.patreon.com/cooltools">supporting us</a> on Patreon. We have great rewards for people who contribute! If you would like to make a one-time donation, you can do so using this link: <a href="https://paypal.me/cooltools">https://paypal.me/cooltools</a>.– MF</em></p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">                </span>
+
+                <span class="dates1">08/21/20</span>
+
+                
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/#disqus_thread">0</a><a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                
+                
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+            </div>
+          </div>
+            <!--Yellow end-->
+      <!--Yellow part 2--> <!-- Previous day's Reviews -->
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>21 August 2020</h2>
+            </div>
+            <div class="content-body">
+							              <img class="primary" src="https://kk.org/cooltools/files/2020/08/ethernet-coax.jpg" alt="img">
+							                            <div class="description">
+                <h2><a href="https://kk.org/cooltools/ethernet-over-coax-cable-converter/">Ethernet-Over-Coax-Cable Converter</a></h2>
+                <h3>Extend your wired network connection</h3>
+
+                
+                <p>I live in a sprawling house, extensively wired with coax cable throughout (but not with Cat 5). My mesh wi-fi works, but with five grownups living and working from home, I wanted a wired connection for the main workstations, teleconferencing spots, and Apple TVs. Re-wiring the house with Cat 5 was intrusive and expensive and the Ethernet over the power line didn&#8217;t work across the isolated circuits.</p>
+<p>Then I discovered <a href="https://geni.us/ethernet-coax">Ethernet-over-coax-cable converters</a>. I plugged one end of it into the coax cable in the basement near my Ethernet switch and the other end into the same cable in my office upstairs and it just worked. The spec says the bandwidth is up to 100Mbs, but I&#8217;m getting close to 200Mbs (which is what I get from my ISP anyway). I now have many of these and I have it for about 5 months and have no issues to report.</p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">-- Daniel L                </span>
+
+                <span class="dates1">08/21/20</span>
+
+                
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/ethernet-over-coax-cable-converter/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/ethernet-over-coax-cable-converter/#disqus_thread">0</a><a href="https://kk.org/cooltools/ethernet-over-coax-cable-converter/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                                  <label class="label"><a href="https://geni.us/ethernet-coax" target="_blank">Buy on Amazon</a></label>
+                
+                
+                                  <p class="productinfofoot">eKL IP Extender Kit Over Coax Cable Up to 6560ft(2000m) EOC Converter Ethernet Extender Set</p>
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+<!--
+              <div class="related-items">
+                <h3>Related items previously recommended:</h3>
+                <div class="related-items-list">
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img1.jpg" alt="related-img"></div>
+                    <p>Pawz Dog Boots</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img2.jpg" alt="related-img"></div>
+                    <p>H2O4K9 Dog Canteen</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img3.jpg" alt="related-img"></div>
+                    <p>Innotek Dog Training Collar</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                </div>
+              </div>
+-->
+            </div>
+          </div>
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>20 August 2020</h2>
+            </div>
+            <div class="content-body">
+							                            <div class="description">
+                <h2><a href="https://kk.org/cooltools/simple-trick-for-determining-2-1mm-or-2-5mm-barrel-jacks/">Simple Trick for Determining 2.1mm or 2.5mm Barrel Jacks</a></h2>
+                <h3>Gareth's Tips, Tools, and Shop Tales - Issue #58</h3>
+
+                
+                <p><strong>Simple Trick for Determining 2.1mm or 2.5mm Barrel Jacks</strong></p>
+<div id="attachment_36850" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36850" src="https://kk.org/cooltools/files/2020/08/barreljacks.png" alt="If it fits, you must equip." width="600" height="210" /><p class="wp-caption-text">If it fits, you must equip.</p></div>
+<p>Here’s a tip I learned from Donald Bell’s <a href="https://www.youtube.com/channel/UCfMJZK2etTZFGXYDh8p3x3w?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Maker Update</a>. It’s from an old DigiKey <a href="https://youtu.be/iHyA4M0A8V4?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">“Teaching Moment</a>.” Many barrel jacks have a consistent 5.5mm outside diameter. But the inside diameter can vary, usually either between 2.1mm or 2.5mm. If you don’t have your digital calipers handy, you can determine this inside diameter with common objects: a toothpick, a ball point pen, or a test probe. The brass housing on a ball point pen is usually 2.2mm. If it doesn’t fit inside the barrel of your jack, then the jack is 2.1mm. If the pen easily fits inside, the jack is 2.5mm. A standard toothpick is 2.1mm. If it fits snugly in the jack, it’s a 2.1mm jack. Also, a common multimeter probe needle with fit closely inside of a 2.1mm jack and be very sloppy inside of a 2.5mm jack.</p>
+<p><strong>Yet Another Method for Removing a Stripped Screw</strong></p>
+<div id="attachment_36849" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36849" src="https://kk.org/cooltools/files/2020/08/stripscrew.png" alt="Wrap that rascal." width="600" height="494" /><p class="wp-caption-text">Wrap that rascal.</p></div>
+<p>There are at least a dozen ways of removing stripped screws. Many of them involve getting rubber material (say, from a rubber band) between the screw and the bit. From the <em>Instagram</em> page for <a href="https://www.instagram.com/p/B2zWrkMHK7b/?fbclid=IwAR3OJ5nRUG3GuY5OaS3MejjEcEyrIgwLJJuIp0o7KVqZ0YStRrJWbqFM31U&amp;igshid=u72jdj8qyf7c&amp;utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Tradecktory</a> comes this idea on using a disposable rubber glove wrapped around the bit to do the trick.</p>
+<p><strong>Creating a Level from a Carpenter&#8217;s Square</strong></p>
+<div id="attachment_36848" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36848" src="https://kk.org/cooltools/files/2020/08/carpentersquare.jpeg" alt="Getting on the level in a pinch." width="600" height="600" /><p class="wp-caption-text">Getting on the level in a pinch.</p></div>
+<p>Here’s an oldie but goodie from the <a href="https://www.instagram.com/acmetools/?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Acme Tools</a> <em>Instagram</em> feed: If you don’t have a level handy, wrap a chalk line over the top of a carpenter’s square at the 90 degree angle. When the string lines up with the 45 degree mark on the square, your surface is level. I recently bought the classic <a href="https://geni.us/eWtEm3B?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Swanson Tools Speed Square</a> and couldn’t love it any more. A great tool for under ten bones. It even comes with the iconic (and very handy) <a href="https://www.google.com/url?cd=&amp;esrc=s&amp;q=&amp;rct=j&amp;sa=t&amp;source=web&amp;url=https%3A%2F%2Firp-cdn.multiscreensite.com%2F57e36f82%2Ffiles%2Fuploaded%2FSpeedSquareInstructionBook2.pdf&amp;usg=AOvVaw1HuEh4CZiQnQ6ENsNjSUTs&amp;utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter&amp;ved=2ahUKEwjDlcy86ZjrAhXqx1kKHUrrBkoQFjAAegQIAhAB" target="_blank">Speed Square Blue Book</a> [PDF].</p>
+<p><strong>Using a Shop Weight as a Temporary Stop Block</strong></p>
+<div id="attachment_36847" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36847" src="https://kk.org/cooltools/files/2020/08/shopweight.png" alt="Weights and measures." width="600" height="339" /><p class="wp-caption-text">Weights and measures.</p></div>
+<p>In this <a href="https://youtu.be/pfHtIs9uZZA?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">recent Laura Kampf video</a>, where she builds a sweet little geodesic dome greenhouse out of trash, she employs a tip every maker should store in their mental toolbox. She uses a shop weight as a quick stop block for repetitive cutting of material to the same length. What she is cutting is ingenious, too. She used metal strapping bands as the struts for her wee dome.</p>
+<p><strong>Making a Quick Plastic/Laminate Cutter</strong></p>
+<div id="attachment_36846" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36846" src="https://kk.org/cooltools/files/2020/08/laminatecutter.png" alt="Making the knife you need." width="600" height="610" /><p class="wp-caption-text">Making the knife you need.</p></div>
+<p>In a recent <a href="https://www.instagram.com/jimmydiresta/?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Jimmy DiResta Instagram</a> story, he shared a useful tip. He was cutting a bunch of Formica and didn’t have a <a href="https://geni.us/YG9IBa?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">plastic/laminate cutter </a>handy. So, he simply cut a hook in a utility knife to achieve the same basic effect.</p>
+<p><strong>Using the Pomodoro Technique to Fight Distraction</strong><br />
+My long-time pal (and <em>Cool Tools</em> and <em>Boing Boing</em> colleague) Mark Frauenfelder has just launched a new newsletter, called <a href="https://themagnet.substack.com/p/the-magnet-0001?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">The Magnet</a>. There is a free version and a paid subscription version. <a href="https://boingboing.net/2020/08/11/why-im-launching-the-magnet.html?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">More info here</a>.</p>
+<p>In his <a href="https://themagnet.substack.com/p/the-magnet-0001?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">first issue</a>, he talks about the Pomodoro productivity technique. This is a method for trying to focus on the work at hand in our extraordinarily distracted modern world. The basic idea is to set a timer for a set interval of time (say, 25 minutes), come up for air for a set interval (say 10 minutes), set the timer again, rinse, repeat. When under the timer, you do <em>nothing</em> but the work at hand. No checking your phone, email, FaceFart, etc.</p>
+<p>I had no idea it had a name, but I’ve used the timer technique for years. Sometimes, it’s the only way I can get anything productive done. I set my timer for 56 minute sessions (don’t ask).</p>
+<p>If you have similar distraction issues, consider giving this method a try.</p>
+<p>Sketchplanations has a good, short guide to the <a href="https://www.sketchplanations.com/post/179972023741/the-pomodoro-technique-a-super-simple-method?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Pomodoro Technique</a>..</p>
+<p><strong>Shop Talk</strong></p>
+<div id="attachment_36845" style="width: 610px" class="wp-caption alignnone"><img class="size-full wp-image-36845" src="https://kk.org/cooltools/files/2020/08/stanleybuttguage.jpeg" alt="The Stanley Butt Gauge No. 93" width="600" height="450" /><p class="wp-caption-text">The Stanley Butt Gauge No. 93</p></div>
+<p>Reader <strong>Chris Johnson</strong> sent this response to <a href="https://www.getrevue.co/profile/garethbranwyn/issues/gareth-s-tips-tools-and-shop-tales-issue-57-267691?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">last week’s piece</a> on cool specialty tools and the antique Stanley ruler with calipers: “I’m a fan of old tools, too, having inherited a bunch from various relatives past. Here’s one from my Uncle Soren, a Norwegian carpenter who worked in Brooklyn in the 20s through 60s. It’s the Stanley Butt Gauge No. 93 (used for installing doors). I’ve hung doors, but have never thought to use it. It generally sits on my desk as a reminder to occasionally get my hands off the keyboard and onto a physical project of some sort.”</p>
+<p>***</p>
+<p>In response to last issue’s piece on using wine bottles to irrigate plants when you’re away, I got a bunch of responses. Here’s one:</p>
+<p><strong>John Seiffer</strong>: “My wife tried the wine bottle plant watering and said the dirt just clogs it up. She’s a big fan of using wine bottles stuck <a href="https://geni.us/b8SG?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">in these</a>. Apparently the terra cotta works the magic.”</p>
+<p>There are also <a href="https://geni.us/jO55wO8?utm_campaign=Gareth%27s%20Tips%2C%20Tools%2C%20and%20Shop%20Tales&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">plastic ones</a> that have valves with an adjustable drip rate.</p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">                </span>
+
+                <span class="dates1">08/20/20</span>
+
+                
+                                  <p class="editorscomment">(Gareth’s Tips, Tools, and Shop Tales is published by Cool Tools Lab. To receive the newsletter a week early, sign up <a href="https://www.getrevue.co/profile/garethbranwyn">here.</a> &mdash; editors)</p>
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/simple-trick-for-determining-2-1mm-or-2-5mm-barrel-jacks/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/simple-trick-for-determining-2-1mm-or-2-5mm-barrel-jacks/#disqus_thread">0</a><a href="https://kk.org/cooltools/simple-trick-for-determining-2-1mm-or-2-5mm-barrel-jacks/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                
+                
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+<!--
+              <div class="related-items">
+                <h3>Related items previously recommended:</h3>
+                <div class="related-items-list">
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img1.jpg" alt="related-img"></div>
+                    <p>Pawz Dog Boots</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img2.jpg" alt="related-img"></div>
+                    <p>H2O4K9 Dog Canteen</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img3.jpg" alt="related-img"></div>
+                    <p>Innotek Dog Training Collar</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                </div>
+              </div>
+-->
+            </div>
+          </div>
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>19 August 2020</h2>
+            </div>
+            <div class="content-body">
+							              <img class="primary" src="https://kk.org/cooltools/files/2020/07/bestydelphbag.jpeg" alt="img">
+							                            <div class="description">
+                <h2><a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/">What&#8217;s in my bag? — Betsy Delph</a></h2>
+                <h3>What's in my bag? issue #63</h3>
+
+                
+                <p><a href="http://cool-tools.org/wimb"><span style="text-decoration: underline;"><i>Sign up</i></span></a><i> to get What&#8217;s in my bag delivered to your inbox a week earlier.</i></p>
+<p>&nbsp;</p>
+<p><strong>Betsy Delph</strong> is a classically trained chef who manages the kitchen for an outdoor science school, has spent six years as a wilderness fire lookout for the US Forest Service, and is a <a href="https://www.alidadeforesttherapy.com/?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">forest therapy/shinrin yoku guide</a>. She loves carrying this super-portable watercolor setup into the mountains, woods, or backyard. You can find Betsy on Instagram <a href="https://www.instagram.com/betsystarshine/?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">@betsystarshine</a>.</p>
+<p><strong>About the bag</strong></p>
+<p>The bag is a <a href="https://geni.us/pJRt?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank"><strong>Rite in the Rain Side-Bound Notebook Cover</strong></a>. It fits a plethora of things and it’s only 5.5&#8243; x 8.5&#8243;. It’s made of Cordura, so it’s super-tough and has just enough structure to protect my brushes, palettes, and paper from the inside of my backpack.</p>
+<p><strong>What&#8217;s inside the bag</strong></p>
+<p><a href="https://art-toolkit.com/products/palettes/?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank"><strong>The Pocket Palettes by Art Toolkit</strong></a> are simply phenomenal. They’re compact, with a mixing palette, and various sizes of magnetic pans so you can create your own custom selection of color. They also make pre-filled palettes to give you a jump start.</p>
+<p>I filled my pans with <a href="http://danielsmith.com/daniel-smith-essentials-watercolor-5ml-set-6-colors/?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank"><strong>Daniel Smith Watercolors</strong></a>. They have more than 250 colors, which is enough to bend your brain. I started with their Essentials Set and picked up one of their Dot Cards so I could test-drive some of the colors my favorite artists use before picking some more to buy…I’m up to 34 colors now.</p>
+<p>I started off with travel brushes that have a little water well in the handle, but I didn’t like how I couldn’t control the flow very well, and pretty much used them like normal brushes. So I upgraded to still <a href="https://geni.us/N8R1L6e?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank"><strong>very affordable synthetic sable travel brushes</strong></a>. My prize one is real sable, from <a href="https://www.rosemaryandco.com/watercolour-brushes?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank">Rosemary &amp; Co</a>, but the set from Amazon is great and 3 brushes cost as much as the single nicer one.</p>
+<p>I like to use <a href="https://www.dickblick.com/products/fluid-100-watercolor-paper-blocks/?utm_campaign=What%27s%20in%20my%20bag%3F&amp;utm_medium=email&amp;utm_source=Revue%20newsletter" target="_blank"><strong>watercolor blocks of various sizes</strong></a>. The pages are glued together in a “block”, which means the paper stays flat without having to tape it down. Fluid Watercolor Blocks are a good value and quality, and come in a wide array of sizes. One of the 4&#8243; x 6&#8243; blocks fits right in the bag, or I’ll carry a bigger one along with it.</p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">-- <a href="https://www.alidadeforesttherapy.com/?utm_campaign=What%27s%20in%20my%20bag%3F&utm_medium=email&utm_source=Revue%20newsletter">Betsy Delph                </a></span>
+
+                <span class="dates1">08/19/20</span>
+
+                
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/#disqus_thread">0</a><a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                
+                
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+<!--
+              <div class="related-items">
+                <h3>Related items previously recommended:</h3>
+                <div class="related-items-list">
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img1.jpg" alt="related-img"></div>
+                    <p>Pawz Dog Boots</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img2.jpg" alt="related-img"></div>
+                    <p>H2O4K9 Dog Canteen</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img3.jpg" alt="related-img"></div>
+                    <p>Innotek Dog Training Collar</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                </div>
+              </div>
+-->
+            </div>
+          </div>
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>19 August 2020</h2>
+            </div>
+            <div class="content-body">
+							              <img class="primary" src="https://kk.org/cooltools/files/2016/01/scoop.jpg" alt="img">
+							                            <div class="description">
+                <h2><a href="https://kk.org/cooltools/25614/">DuraScoop Cat Litter Scoop</a></h2>
+                <h3>The heaviest, sturdiest cat litter scoop</h3>
+
+                
+                <p>The little plastic cat litter scoop I&#8217;d been using for a couple of years had gotten flimsy from use and would often buckle at the handle. The <a href="https://geni.us/dura-scoop">DuraScoop</a> is made from cast aluminum and will never bend. It easily shaves hardened clumps of litter from that litter box that would cause a plastic scoop to fold in half. It&#8217;s actually a beautiful looking tool, too. If Raymond Loewy designed a scoop, it would look like this (maybe the handle wouldn&#8217;t be covered with textured plastic). Cleaning cat litter is an unpleasant daily chore for me, but the DuraScoop makes it much less unpleasant.</p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">-- Mark Frauenfelder                </span>
+
+                <span class="dates1">08/19/20</span>
+
+                
+                                  <p class="editorscomment">(This is a Cool Tools Favorite from 2016 &mdash; editors)</p>
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/25614/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/25614/#disqus_thread">0</a><a href="https://kk.org/cooltools/25614/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                                  <label class="label"><a href="https://geni.us/dura-scoop" target="_blank">Buy on Amazon</a></label>
+                
+                
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+<!--
+              <div class="related-items">
+                <h3>Related items previously recommended:</h3>
+                <div class="related-items-list">
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img1.jpg" alt="related-img"></div>
+                    <p>Pawz Dog Boots</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img2.jpg" alt="related-img"></div>
+                    <p>H2O4K9 Dog Canteen</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img3.jpg" alt="related-img"></div>
+                    <p>Innotek Dog Training Collar</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                </div>
+              </div>
+-->
+            </div>
+          </div>
+                <div class="content-box yellow">
+            <div class="content-title">
+              <h2>18 August 2020</h2>
+            </div>
+            <div class="content-body">
+							                            <div class="description">
+                <h2><a href="https://kk.org/cooltools/punch-drunk-part-3-transfer-punches/">Punch Drunk Part 3: Transfer Punches</a></h2>
+                <h3>Transfer Punch Sets</h3>
+
+                
+                <div class="epyt-video-wrapper"><iframe  id="_ytid_26390"  width="480" height="270"  data-origwidth="480" data-origheight="270"  src="https://www.youtube.com/embed/ewcbNRP5BBE?enablejsapi=1&#038;autoplay=0&#038;cc_load_policy=0&#038;iv_load_policy=1&#038;loop=0&#038;modestbranding=0&#038;rel=1&#038;fs=1&#038;playsinline=0&#038;autohide=2&#038;theme=dark&#038;color=red&#038;controls=1&#038;" class="__youtube_prefs__  epyt-is-override  no-lazyload" title="YouTube player"  allow="autoplay; encrypted-media" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div>
+<p><strong>Tools (Recommended)</strong>:<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B01ADBNEJE/seanmichaelragan-20" target="_blank" rel="noopener">HHIP 8600-0041 28 Piece Transfer Punch Set, 3/32&#8243; &#8211; 1/2”</a></p>
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/B0000DD4F1/seanmichaelragan-20" target="_blank" rel="noopener">Grizzly G5655 25-Piece Transfer Punch Set, Metric</a></p>
+<p><strong>Tools (Other)</strong>:<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B07WDF55ZT/seanmichaelragan-20" target="_blank" rel="noopener">HORUSDY 28-Piece Transfer Punch Set, 3/32&#8243; &#8211; 1/2”</a></p>
+<p><a href="https://youtu.be/ewcbNRP5BBE" target="_blank" rel="noopener">Show notes and Transcript</a></p>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>
+                <span class="author-link">-- <a href="https://www.youtube.com/cooltools">Sean Michael Ragan                </a></span>
+
+                <span class="dates1">08/18/20</span>
+
+                
+                
+                <div class="like-box">
+                  <div class="comment-box jumper col-5">
+                    <a href="https://kk.org/cooltools/punch-drunk-part-3-transfer-punches/#kk-comment-wrapper">Comments (</a><a href="https://kk.org/cooltools/punch-drunk-part-3-transfer-punches/#disqus_thread">0</a><a href="https://kk.org/cooltools/punch-drunk-part-3-transfer-punches/#kk-comment-wrapper">)</a>
+                  </div>
+                  <div class="like-icon col-7">
+                  </div>
+                </div>
+
+                <!-- amazon link -->
+                <div class="linkbox">
+                
+                
+                                </div>
+
+              </div>
+              <!-- div class="review-box">
+                <div class="col-4">
+                                  </div>
+                <div class="col-4">
+                  <a href="https://kk.org/cooltools/archives-by-date" class="review">All Reviews</a>
+                </div>
+                <div class="col-4">
+                                      <a class="review" href="?reviews=2#reviews">Older Review</a>
+                                  </div>
+              </div -->
+<!--
+              <div class="related-items">
+                <h3>Related items previously recommended:</h3>
+                <div class="related-items-list">
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img1.jpg" alt="related-img"></div>
+                    <p>Pawz Dog Boots</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img2.jpg" alt="related-img"></div>
+                    <p>H2O4K9 Dog Canteen</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img3.jpg" alt="related-img"></div>
+                    <p>Innotek Dog Training Collar</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                  <div class="related-items-img">
+                    <div class="img"><img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/related-img4.jpg" alt="related-img"></div>
+                    <p>Gentle Leader Dog Harness</p>
+                  </div>
+                </div>
+              </div>
+-->
+            </div>
+          </div>
+            <!--Yellow end-->
+      <!--Blue--> <!-- Archives by date -->
+            <div class="content-box blue">
+        <div class="content-title">
+          <h2>ALL REVIEWS</h2>
+        </div>
+        <div class="content-body">
+          <div class="products">
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/wheelhousefix-broken-partscomfort-languages/">
+                <div class="product-img">
+                                   <img src="https://kk.org/cooltools/files/2020/08/memoryfoamslippers.jpg" alt="img">
+                                    <span class="dates">08/16/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/wheelhousefix-broken-partscomfort-languages/">Wheelhouse/Fix broken parts/Comfort languages</a></h4>
+              <p>Recomendo: issue no. 213</p>
+            </div>
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/angela-eaton-environmental-urbanist/">
+                <div class="product-img">
+                                   <img src="https://kk.org/cooltools/files/2020/08/DBD1C54A-4FC2-4E83-88DC-A6AC1DFFE3FA.jpg" alt="img">
+                                    <span class="dates">08/14/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/angela-eaton-environmental-urbanist/">Angela Eaton, Environmental Urbanist</a></h4>
+              <p>Cool Tools Show 239: Angela Eaton</p>
+            </div>
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/toys-leatherman-free-p4/">
+                <div class="product-img">
+                                    <span class="dates">08/13/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/toys-leatherman-free-p4/">TOYS! Leatherman Free P4</a></h4>
+              <p>Gareth&#8217;s Tips, Tools, and Shop Tales &#8211; Issue #57</p>
+            </div>
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/whats-in-my-bag-amantha-imber/">
+                <div class="product-img">
+                                   <img src="https://kk.org/cooltools/files/2020/07/amanthawimb.png" alt="img">
+                                    <span class="dates">08/12/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/whats-in-my-bag-amantha-imber/">What&#8217;s in my bag? — Amantha Imber</a></h4>
+              <p>What&#8217;s in my bag? issue #62</p>
+            </div>
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/dewalt-welding-table-vs-harbor-freight/">
+                <div class="product-img">
+                  <img width="1920" height="1080" src="https://kk.org/cooltools/files/2020/08/thumb2.jpg" class="attachment-post-thumbnail wp-post-image" alt="thumb2" />                  <span class="dates">08/11/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/dewalt-welding-table-vs-harbor-freight/">DeWalt Welding Table vs. Harbor Freight</a></h4>
+              <p>Best Portable Welding Table</p>
+            </div>
+                      <div class="product-box col-4">
+              <a href="https://kk.org/cooltools/first-readsdrive-listenimproved-dictanote/">
+                <div class="product-img">
+                                   <img src="https://kk.org/cooltools/files/2020/08/presto.jpg" alt="img">
+                                    <span class="dates">08/9/20</span>
+                </div>
+              </a>
+              <h4><a href="https://kk.org/cooltools/first-readsdrive-listenimproved-dictanote/">First Reads/Drive &#038; Listen/Improved Dictanote</a></h4>
+              <p>Recomendo: issue no. 212</p>
+            </div>
+          
+          </div>
+          <a href="https://kk.org/cooltools/archives-by-date" class="see-all">See all the reviews</a>
+        </div>
+      </div>
+            <!--Blue end-->
+      <!--Orange--> <!-- EDITORS FAVORITES -->
+                <div class="content-box orange">
+            <div class="content-title">
+              <h2>EDITOR'S FAVORITES</h2>
+            </div>
+            <div class="content-body">
+              <div class="products">
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/headblade/">
+                    <div class="product-img">
+                                               <img src="/wp-content/archiveimages/headblade-m.jpg" alt="img">
+                        
+                      <span class="dates">04/21/04</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/headblade/">HeadBlade</a></h4>
+                  <p>Perfect scalp razor</p>
+                </div>
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/perplexus/">
+                    <div class="product-img">
+                                               <img src="https://kk.org/cooltools/files/2010/01/91ZEoIylP9L._SL1500_.jpg" alt="img">
+                        
+                      <span class="dates">11/29/18</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/perplexus/">Perplexus</a></h4>
+                  <p>Brilliant 3D maze</p>
+                </div>
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/blurb-lulu/">
+                    <div class="product-img">
+                                               <img src="/wp-content/archiveimages/archives/selfpub1_sm.jpg" alt="img">
+                        
+                      <span class="dates">12/8/06</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/blurb-lulu/">Blurb * Lulu</a></h4>
+                  <p>Personal bookprinting</p>
+                </div>
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/vitamix/">
+                    <div class="product-img">
+                                               <img src="/wp-content/archiveimages/vitamix%205200_resize.jpg" alt="img">
+                        
+                      <span class="dates">06/10/11</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/vitamix/">VitaMix 5200 Countertop Blender</a></h4>
+                  <p>The ultimate blender</p>
+                </div>
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/lockjaw-selfadj/">
+                    <div class="product-img">
+                                               <img src="https://kk.org/cooltools/files/2006/05/71yIVv7H4uL._SL1500_.jpg" alt="img">
+                        
+                      <span class="dates">03/1/18</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/lockjaw-selfadj/">LockJaw Self-Adjusting Pliers</a></h4>
+                  <p>Self-adjusting Vise Grips</p>
+                </div>
+                              <div class="product-box col-4">
+                  <a href="https://kk.org/cooltools/tangoes-1/">
+                    <div class="product-img">
+                                               <img src="https://kk.org/cooltools/files/2006/12/71F0-IOnU3L._SL1500_.jpg" alt="img">
+                        
+                      <span class="dates">07/8/18</span>
+                    </div>
+                  </a>
+                  <h4><a href="https://kk.org/cooltools/tangoes-1/">Tangoes</a></h4>
+                  <p>Classic puzzle in great package</p>
+                </div>
+                            </div>
+              <a href="https://kk.org/cooltools/tag/kevins_favorites/" class="see-all">See all the favorites</a>
+            </div>
+          </div>
+            <!--Orange End-->
+      <!--Pink--> <!-- Podcast -->
+                <div class="content-box pink">
+            <div class="content-title">
+              <h2>COOL TOOLS SHOW PODCAST</h2>
+            </div>
+            <div class="content-body">
+                          <div class="audio">
+                <div class="col-8 audio-img">
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879294817%3Fsecret_token%3Ds-CLCrsjxkHmN&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cool-tools" title="Cool Tools" target="_blank" style="color: #cccccc; text-decoration: none;">Cool Tools</a> · <a href="https://soundcloud.com/cool-tools/240-itamar-kubovy/s-CLCrsjxkHmN" title="240: Itamar Kubovy" target="_blank" style="color: #cccccc; text-decoration: none;">240: Itamar Kubovy</a></div>                </div>
+                <div class="audio-comment col-4">
+                  <span>08/21/20</span>
+                  <p>Cool Tools Show 240: Itamar Kubovy</p>
+                  <a class="see-all fl" href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/">Picks and shownotes</a>
+                </div>
+              </div>
+                          <div class="audio">
+                <div class="col-8 audio-img">
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/875340961%3Fsecret_token%3Ds-k2oZSchnmYI&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cool-tools" title="Cool Tools" target="_blank" style="color: #cccccc; text-decoration: none;">Cool Tools</a> · <a href="https://soundcloud.com/cool-tools/239-angela-eaton/s-k2oZSchnmYI" title="239: Angela Eaton" target="_blank" style="color: #cccccc; text-decoration: none;">239: Angela Eaton</a></div>                </div>
+                <div class="audio-comment col-4">
+                  <span>08/14/20</span>
+                  <p>Cool Tools Show 239: Angela Eaton</p>
+                  <a class="see-all fl" href="https://kk.org/cooltools/angela-eaton-environmental-urbanist/">Picks and shownotes</a>
+                </div>
+              </div>
+                          <div class="audio">
+                <div class="col-8 audio-img">
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/871488490%3Fsecret_token%3Ds-2N9AEmoxfnI&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cool-tools" title="Cool Tools" target="_blank" style="color: #cccccc; text-decoration: none;">Cool Tools</a> · <a href="https://soundcloud.com/cool-tools/238-jennifer-robbins/s-2N9AEmoxfnI" title="238: Jennifer Robbins" target="_blank" style="color: #cccccc; text-decoration: none;">238: Jennifer Robbins</a></div>                </div>
+                <div class="audio-comment col-4">
+                  <span>08/7/20</span>
+                  <p>Cool Tools Show 238: Jennifer Robbins</p>
+                  <a class="see-all fl" href="https://kk.org/cooltools/jennifer-robbins-designer/">Picks and shownotes</a>
+                </div>
+              </div>
+                          <div class="links audio">
+                <a target="_blank" href="https://itunes.apple.com/us/podcast/cool-tools-show-and-tell/id605920446?mt=2" class="see-all">Subscribe on iTunes</a>
+                <a target="_blank" href="https://feedpress.me/cooltoolsshow" class="see-all">RSS</a>
+                <a href="https://kk.org/cooltools/category/podcast-2/" class="see-all">See all the episodes</a>
+              </div>
+            </div>
+          </div>
+              <!--Pink end-->
+      <!--Yellow--><!-- WHAT’S IN MY BAG? -->
+            <div class="content-box yellow" id="whats-in-my-bag-2">
+        <div class="content-title">
+          <h2>WHAT'S IN MY BAG?<br>19 August 2020</h2>
+        </div>
+        <div class="content-body">
+          <!-- <img src="https://kk.org/cooltools/wp-content/themes/ct2016/images/img5.jpg" alt="img"> -->
+                     <img src="https://kk.org/cooltools/files/2020/07/bestydelphbag.jpeg" alt="img">
+                      <div class="description">
+            <div class="date">08/19/20</div>
+            <h2><a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/">What&#8217;s in my bag? — Betsy Delph</a></h2>
+            <div class="home-content whats-in-my-bag-content">
+              <p>What&#8217;s in my bag? issue #63</p>
+            </div>
+            <div class="links whats">
+              <a href="https://kk.org/cooltools/category/whats-in-my-bag-2/" class="see-all">See everyone's bags</a>
+              <a href="https://kk.org/cooltools/whats-in-my-bag-betsy-delph/" class="see-all">See everything in this bag</a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+             <!--Yellow end-->
+      <!--Orange--> <!-- About US -->
+            <div class="content-box orange about" id="about-us">
+        <div class="content-title">
+          <h2>ABOUT COOL TOOLS</h2>
+        </div>
+        <div class="content-body">
+          <div class="description">
+<div class="col-6">
+<p>Cool Tools is a web site which recommends the best/cheapest tools available. Tools are defined broadly as anything that can be useful. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas. All reviews are positive raves written by real users. We don’t bother with negative reviews because our intent is to only offer the best.</p>
+<p>One new tool is posted each weekday. Cool Tools does NOT sell anything. The site provides prices and convenient sources for readers to purchase items.</p>
+</div>
+<div class="col-6">
+<p>When Amazon.com is listed as a source (which it often is because of its prices and convenience) Cool Tools receives a fractional fee from Amazon if items are purchased at Amazon on that visit. Cool Tools also earns revenue from Google ads, although we have no foreknowledge nor much control of which ads will appear.</p>
+<p>We recently posted a <a href="/cooltools/the-tools-of-co/">short history of Cool Tools</a> which included current stats as of April 2008. This explains both the genesis of this site, and the tools we use to operate it.</p>
+</div>
+<div class="author">
+<div class="col-4">
+<div class="author-content">
+<p><strong><a href="http://kk.org/cooltools/files/2008/06/13632766_602152159944472_101382480_o.jpg"><img class="alignnone wp-image-27338" src="https://kk.org/cooltools/files/2008/06/13632766_602152159944472_101382480_o-300x300.jpg" alt="13632766_602152159944472_101382480_o" width="217" height="217" /></a>Kevin Kelly</strong> started Cool Tools in 2000 as an email list, then as a blog since 2003. He edited all reviews through 2006. He writes the occasional review, oversees the design and editorial direction of this site, and made a book version of Cool Tools. If you have a question about the website in general his email is kk {at} kk.org.</p>
+</div>
+</div>
+<div class="col-4">
+<div class="author-content">
+<p><strong><a href="http://kk.org/cooltools/files/2008/06/13918651_603790483113973_1799207977_o.jpg"><img class="alignnone wp-image-27340" src="https://kk.org/cooltools/files/2008/06/13918651_603790483113973_1799207977_o-300x300.jpg" alt="13918651_603790483113973_1799207977_o" width="217" height="217" /></a>Mark Frauenfelder</strong> edits Cool Tools and develops editorial projects for Cool Tools Lab, LLC. If you’d like to submit a review, email him at editor {at} cool-tools.org (or use the Submit a Tool form).</p>
+</div>
+</div>
+<div class="col-4">
+<div class="author-content">
+<p><strong><a href="http://kk.org/cooltools/files/2008/06/13898183_602421513250870_1391167760_o.jpg"><img class="alignnone wp-image-27339" src="https://kk.org/cooltools/files/2008/06/13898183_602421513250870_1391167760_o-300x300.jpg" alt="13898183_602421513250870_1391167760_o" width="217" height="217" /></a>Claudia Dawson</strong> runs the Cool Tool website, posting items daily, maintaining software, measuring analytics, managing ads, and in general keeping the site alive. If you have a concern about the operation or status of this site contact her email is claudia {at} cool-tools.org.</p>
+</div>
+</div>
+</div>
+</div>
+<div class='ctx-subscribe-container ctx-personalization-container ctx_default_placement ctx-clearfix'></div><div class='ctx-social-container ctx_default_placement ctx-clearfix'></div><div class='ctx-module-container ctx_default_placement ctx-clearfix'></div><span class="ctx-article-root"><!-- --></span>        </div>
+      </div>
+      <!--Orange end-->
+    </div>
+  </div>
+  <div class="col-3 sidebar">
+	<div class="widget-odd widget-first widget-1 clr category"><div class="menu-right-sidebar-top-menu-container"><ul id="menu-right-sidebar-top-menu" class="menu"><li id="menu-item-25244" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-25244"><a href="/cooltools/">TODAY&#8217;S REVIEW</a></li>
+<li id="menu-item-34800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34800"><a href="https://www.amazon.com/shop/kevin2kelly">STOREFRONT</a></li>
+<li id="menu-item-25245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25245"><a href="https://www.youtube.com/user/CoolToolsLab/">YOUTUBE CHANNEL</a></li>
+<li id="menu-item-25246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25246"><a href="/cooltools/tag/editors-favorites/">EDITOR&#8217;S FAVORITES</a></li>
+<li id="menu-item-27654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27654"><a href="/cooltools/tag/reader-favorites/">READER FAVORITES</a></li>
+<li id="menu-item-25247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25247"><a href="/cooltools/archives-by-date">ARCHIVES BY DATE</a></li>
+<li id="menu-item-25248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25248"><a href="/cooltools/category/podcast-2">PODCAST</a></li>
+<li id="menu-item-25249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25249"><a href="/cooltools/category/whats-in-my-bag-2">WHAT&#8217;S IN MY BAG?</a></li>
+<li id="menu-item-25250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25250"><a href="/cooltools/category/announcements">ANNOUNCEMENTS</a></li>
+<li id="menu-item-25251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25251"><a href="/cooltools/submit-a-tool/">SUBMIT A TOOL</a></li>
+<li id="menu-item-25252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25252"><a href="/cooltools/ctfaq/">FAQ</a></li>
+<li id="menu-item-25253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25253"><a href="/cooltools/about/">ABOUT US</a></li>
+<li id="menu-item-25254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25254"><a href="/cooltools/subscribe-to-email-list/">EMAIL LIST</a></li>
+<li id="menu-item-25255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25255"><a href="/cooltools/feed/">RSS FEED</a></li>
+</ul></div></div><div class="widget-even widget-2 category">			<div class="textwidget"><a href="https://www.patreon.com/bePatron?u=50559">Become a Patron!</a>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#3B4E61"><span style="line-height:8px">Support our reviews, videos, and podcasts on Patreon!</span></font>
+</div>
+		</div><div class="widget-odd widget-3 category">			<div class="textwidget"><a href="https://fb.me/cooltoolslab"><img src="//cdn.kk.org/cooltools/2016/04/FKK-e1461711776210.jpg"></a> <a href="https://twitter.com/cool_tools">
+</div>
+		</div><div class="widget-even widget-4 category">			<div class="textwidget"><a href="https://twitter.com/cool_tools" target=“_blank">
+<img src="//cdn.kk.org/cooltools/2016/04/TKK-e1461711792865.jpg"></a></div>
+		</div><div class="widget-odd widget-5 category">			<div class="textwidget"><a href="https://amzn.to/2EhPe2x" target="_blank"><img width="180" height="244" src="https://kk.org/cooltools/files/2019/12/Amazon_FFT.png" /></a></div>
+		</div><div class="widget-even widget-6 category">			<div class="textwidget"><script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1698&serve=CVYD42E&placement=kkorgcooltools"
+ id="_carbonads_js"></script></div>
+		</div><div class="widget-odd widget-7 content-para category">			<div class="textwidget"><strong>Cool tools really work.</strong>
+	    <p>A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the  tool and others like it. Items can be either old or new as long as they are wonderful. We post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted.</p>
+	    <a href="#">Tell us what you love.</a></div>
+		</div><div class="widget-even widget-8 category"><h4 class="widget-title">Categories</h4>		<ul>
+	<li class="cat-item cat-item-238"><a href="https://kk.org/cooltools/category/announcements/" >Announcements</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://kk.org/cooltools/category/aural/" >Aural</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="https://kk.org/cooltools/category/autonomous_motion/" >Autonomous Motion</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="https://kk.org/cooltools/category/backpacking/" >Backpacking</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://kk.org/cooltools/category/big_systems/" >Big Systems</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="https://kk.org/cooltools/category/clothing/" >Clothing</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://kk.org/cooltools/category/communications/" >Communications</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://kk.org/cooltools/category/community/" >Community</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://kk.org/cooltools/category/computers/" >Computers</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://kk.org/cooltools/category/consumptivity/" >Consumptivity</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://kk.org/cooltools/category/craft/" >Craft</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://kk.org/cooltools/category/culture/" >Culture</a>
+</li>
+	<li class="cat-item cat-item-235"><a href="https://kk.org/cooltools/category/dead_tools/" >Dead Tools</a>
+</li>
+	<li class="cat-item cat-item-2321"><a href="https://kk.org/cooltools/category/deals/" >Deals</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://kk.org/cooltools/category/design/" >Design</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://kk.org/cooltools/category/destinations/" >Destinations</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="https://kk.org/cooltools/category/dwelling/" >Dwelling</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="https://kk.org/cooltools/category/edibles/" >Edibles</a>
+</li>
+	<li class="cat-item cat-item-2365"><a href="https://kk.org/cooltools/category/every-day-carry/" >Every Day Carry</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="https://kk.org/cooltools/category/family/" >Family</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="https://kk.org/cooltools/category/gardens/" >Gardens</a>
+</li>
+	<li class="cat-item cat-item-2371"><a href="https://kk.org/cooltools/category/gareths-tips/" >Gareth&#039;s Tips</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://kk.org/cooltools/category/general_purpose_tools/" >General Purpose Tools</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://kk.org/cooltools/category/health/" >Health</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://kk.org/cooltools/category/homestead/" >Homestead</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="https://kk.org/cooltools/category/inner_space/" >Inner Space</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://kk.org/cooltools/category/kitchen/" >Kitchen</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://kk.org/cooltools/category/learning/" >Learning</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://kk.org/cooltools/category/life_on_earth/" >Life on Earth</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="https://kk.org/cooltools/category/livelihood/" >Livelihood</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="https://kk.org/cooltools/category/living_on_the_road/" >Living on the Road</a>
+</li>
+	<li class="cat-item cat-item-2362"><a href="https://kk.org/cooltools/category/maker-tools/" >Maker Tools</a>
+</li>
+	<li class="cat-item cat-item-2333"><a href="https://kk.org/cooltools/category/maker-update/" >Maker Update</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="https://kk.org/cooltools/category/materials/" >Materials</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="https://kk.org/cooltools/category/media_tools/" >Media Tools</a>
+</li>
+	<li class="cat-item cat-item-237"><a href="https://kk.org/cooltools/category/multiple_products/" >Multiple Product Reviews</a>
+</li>
+	<li class="cat-item cat-item-2370"><a href="https://kk.org/cooltools/category/no-stream/" title="Posts in this category won&#039;t show on the homepage or any other archive, but WILL be shown on single-post pages in CT2016 theme.">No Stream</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://kk.org/cooltools/category/paper_world/" >Paper World</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://kk.org/cooltools/category/photography/" >Photography</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="https://kk.org/cooltools/category/play/" >Play</a>
+</li>
+	<li class="cat-item cat-item-1559"><a href="https://kk.org/cooltools/category/podcast-2/" >Podcast</a>
+</li>
+	<li class="cat-item cat-item-1558"><a href="https://kk.org/cooltools/category/prove-us-wrong/" >Prove Us Wrong</a>
+</li>
+	<li class="cat-item cat-item-234"><a href="https://kk.org/cooltools/category/readers_gifts/" >Readers&#039; Gifts</a>
+</li>
+	<li class="cat-item cat-item-2323"><a href="https://kk.org/cooltools/category/recomendo/" >Recomendo</a>
+</li>
+	<li class="cat-item cat-item-275"><a href="https://kk.org/cooltools/category/related_stuff/" >Related Stuff</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="https://kk.org/cooltools/category/science_method/" >Science Method</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="https://kk.org/cooltools/category/somatics/" >Somatics</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="https://kk.org/cooltools/category/source_wanted/" >Source Wanted</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://kk.org/cooltools/category/tips/" >Tips</a>
+</li>
+	<li class="cat-item cat-item-1449"><a href="https://kk.org/cooltools/category/tool-chest/" >Tool Chest</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://kk.org/cooltools/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="https://kk.org/cooltools/category/vehicles/" >Vehicles</a>
+</li>
+	<li class="cat-item cat-item-2337"><a href="https://kk.org/cooltools/category/videos/" >Videos</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://kk.org/cooltools/category/visual_media/" >Visual Media</a>
+</li>
+	<li class="cat-item cat-item-2303"><a href="https://kk.org/cooltools/category/whats-in-my-bag-2/" >What&#039;s in My Bag</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="https://kk.org/cooltools/category/workplace/" >Workplace</a>
+</li>
+	<li class="cat-item cat-item-1450"><a href="https://kk.org/cooltools/category/workshop/" >Workshop</a>
+</li>
+		</ul>
+</div><div class="widget-odd widget-9 category">			<div class="textwidget"></div>
+		</div><div class="widget-even widget-10 category">			<div class="textwidget"><a href="https://amzn.to/2S0YrVt" target="_blank"><img width="180" height="244" src="https://kk.org/cooltools/files/2019/01/Recomendobook1.jpg"/></a><a href="https://gumroad.com/l/recobook" target="_blank"><img width="180" height="34" src="https://kk.org/cooltools/files/2019/01/Recomendobook2.jpg"/></a>
+
+</div>
+		</div><div class="widget-odd widget-11 category">			<div class="textwidget"><div id="rule-of-thumb">
+	<div class="rot_head">
+		<a href="http://rulesofthumb.org/"><img src="https://cdn.kk.org/cooltools_ui/images/ruleofthumbwidgettop.png" style="width:198px" /></a>
+	</div>
+	<div id="rule-of-thumb-content" style="margin:-3px 0 0 0; padding:5px; border-left:8px solid #409eb2; border-right:8px solid #409eb2; background:#fcfbdd;">
+		<a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/" class="title">Itamar Kubovy, curator of live experiences</a>
+<a href="https://kk.org/cooltools/itamar-kubovy-curator-of-live-experiences/">Our guest this week is Itamar Kubovy. Itamar is a creator and curator of live experiences. He studied philosophy; ran theaters in Germany and Sweden; wrote and directed plays and films, and for 16 years was Executive Creative Producer of the globally acclaimed dance company Pilobolus. For the Freeman company, Itamar co-founded and co-leads Inside Live, a platform where innovators in hybrid events share knowledge and collaborate. Most recently, Itamar launched <a href="https://www.decameronrow.com/" target="_blank" rel="noopener">Decameron Row</a>, a virtual street of 100 windows where artists from around the world share one-minute video postcards of their work in isolation.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879294817%3Fsecret_token%3Ds-CLCrsjxkHmN&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cool-tools" title="Cool Tools" target="_blank" style="color: #cccccc; text-decoration: none;">Cool Tools</a> · <a href="https://soundcloud.com/cool-tools/240-itamar-kubovy/s-CLCrsjxkHmN" title="240: Itamar Kubovy" target="_blank" style="color: #cccccc; text-decoration: none;">240: Itamar Kubovy</a></div>
+
+<a href="https://itunes.apple.com/us/podcast/cool-tools-show-and-tell/id605920446?mt=2">Subscribe to the Cool Tools Show on iTunes</a> | <a href="http://feedpress.me/cooltoolsshow">RSS</a> | <a href="https://drive.google.com/file/d/1zduadh2OnkYSyPUDsn5hSXH_J91N0s_R/view?usp=sharing" rel="noopener" target="_blank">Transcript</a> | <a href="http://kk.org/cooltools/tag/cool-tools-show/">See all the Cool Tools Show posts on a single page</a>
+
+&nbsp;
+
+<strong>Show notes:</strong>
+
+<img class="alignnone size-full wp-image-36869" src="https://kk.org/cooltools/files/2020/08/nocomment.jpg" alt="nocomment" width="500" height="281" />
+<a href="https://www.euronews.com/news/nocomment" target="_blank" rel="noopener">No Comment TV</a>, Euronews
+It's sort of late jet lag nights in European hotels. There's a cable news network in Europe called Euronews and late at night when they would otherwise stop programming, they started doing this thing where they just show B-roll of various things during the day in the last couple of days that happen. And it's entirely unedited B-roll. It's called No Comment, and essentially it's just an endless sequence of one or two minute snippets of B-roll from all over the world that news journalists shot but didn't end up using. And they just sort of throw them up on the site. And it's funny since quarantine and since the entire kind of change in the world has taken place over the last few months, it feels like everything we read and everything we see is so intentional in some way, everything seems planned to get us to think something, we don't know if it's a bot or something real. And there's something about unintentional footage of the world right now that almost seems accidental that feels sort of soothing to me. Everything feels remotely somehow adjacent to the news, but it's an angle that you've never seen. And it has no story to tell other than just letting you be there for a minute and a half.
+
+<img class="alignnone size-full wp-image-36168" src="https://kk.org/cooltools/files/2020/05/AstronautIO.gif" alt="AstronautIO" width="582" height="293" />
+<a href="http://astronaut.io/" target="_blank" rel="noopener">Astronaut.io</a> and <a href="https://www.reddit.com/r/ObscureMedia/" target="_blank" rel="noopener">r/ObscureMedia</a>
+Astronaut.io is an algorithm-driven site that basically combs YouTube for videos that have either been seen zero times or one time. And it's so weird and so good. And you realize that there's this extra special feeling of like you've uncovered the tomb of King Tut that hasn't been seen in 4,000 years, except it just randomly got loaded from someone's pocket four days ago. It's just such a strange feeling that is really enabled by the technology but also brings you to some very human place.
+
+Obscure Media Is a subreddit that is a little bit different from the others. And it's essentially just a subreddit where people collect strange pieces of created media from any time in the past. So, just odd, strange commercials of actors you know that were made in Bulgaria, or just the kind of strange sort of throw away detritus of media. This time, it's all stuff that was very much made at some point. It's very intentional, but it's so irrelevant at this point that it kind of loses its intention and just feels like, "Wow, someone in Italy in the sixties actually dressed up as a pineapple and really tried to sell you a car this way." And it somehow reveals a lot of the kind of strange foibles of the human imagination.
+
+<img class="alignnone size-full wp-image-36870" src="https://kk.org/cooltools/files/2020/08/jabra85h.jpg" alt="jabra85h" width="500" height="499" />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B07RS8B5HV/cooltoolsshow-20" target="_blank" rel="noopener">Jabra Elite 85h </a>
+These are over-the-ear, clunky Jabra 85h's, which are Bluetooth, noise-canceling sort of giant things. And they're great. They're just really good. They allow you to do all the things that people pretend they can do with earbuds, and they're way less comfortable and they're hot and whatever, but they really work. And I found that they've helped me so much to be able to stay focused during this time when there's so much stuff going on around. And there's so much competition for concentration, both visual and our environments where we have our families or whoever's around us all the time. It's just really helped me focus in a way that I feel very appreciative to the product. I think for me, what it does is it just creates a different space in your head. It successfully does that, even when you're outdoors, even when there's a lot of stuff going on around you. It allows you to sort of be with the person you're talking to in a different way. It literally puts you in a bubble.
+
+<a href="https://kk.org/cooltools/files/2020/08/mstea.jpg"><img class="alignnone size-full wp-image-36871" src="https://kk.org/cooltools/files/2020/08/mstea.jpg" alt="m&amp;stea" width="500" height="500" /></a>
+<a href="http://www.amazon.com/exec/obidos/ASIN/B07BL21NXF/cooltoolsshow-20" target="_blank" rel="noopener">UK Marks &amp; Spencer Luxury Gold Tea Bags</a>
+What I'm recommending is Marks &amp; Spencer tea. Nothing fancy, a hundred bags per box. No beautiful tin, no beautiful wood covering. For the umami of tea — which has been quite a treat sometimes during this period where you kind of put a little milk in it at night or in the morning, and really feel the comfort of a sort of creamy cup of tea — this can't be beat. For a long time, I was literally getting people who went to London to go to the basement of Marks and Spencer and get me two boxes of this tea. And I think with the sort of globalization over the years, Amazon now allows you to just buy it with a click. It's a particular blend, and they blend different origins of tea together in the way that one might blend coffee beans from different places together to get a particular taste. And it's quite strong, so it really gives you a flavorful tea and dark, but never has any bitterness to it. It’s just very smooth. There's nothing fancy about it. And it's just an enormous, enormous improvement over Lipton or something like that.
+
+<em>We have hired professional editors to help create our weekly podcasts and video reviews. So far, Cool Tools listeners have pledged $390 a month. Please consider <a href="https://www.patreon.com/cooltools">supporting us</a> on Patreon. We have great rewards for people who contribute! If you would like to make a one-time donation, you can do so using this link: <a href="https://paypal.me/cooltools">https://paypal.me/cooltools</a>.– MF</em></a>
+
+	</div>
+	<div class="rot_footer">
+		<a href="http://rulesofthumb.org/contribute.php" style="float:left"><img src="https://cdn.kk.org/cooltools_ui/images/ruleofthumbwidgetbottom-share_01.png"></a><!-- a href="https://twitter.com/share?text=Rule of Thumb: <?php the_title(); ?>&url=http://cool-tools.org" style="float:right"><img src="https://cdn.kk.org/cooltools_ui/images/ruleofthumbwidgetbottom-share_02.png"></a -->
+	</div>
+</div>
+<br clear="all" />
+</div>
+		</div><div class="widget-even widget-12 category"><h4 class="widget-title">KEVIN KELLY SITES</h4>			<div class="textwidget"><ul>
+            <li><a href="/kk/">Lifestream</a></li>                           
+            <li><a href="/thetechnium/">The Technium</a></li>
+            <li><a href="http://truefilms.com/">True Films</a></li>
+            <li><a href="/extrapolations/"> Extrapolations</a></li>
+            <li><a href="/screenpublishing/">Screen Pub</a></li>
+            <li><a href="http://www.quantifiedself.com/">Quantified Self</a></li>
+            <li><a href="/newrules/">New Rules</a></li>
+            <li><a href="/streetuse/">Street Use</a></li>
+            <li><a href="http://asiagrace.com/">Asia Grace</a></li>
+            <li><a href="http://silver-cord.net/">Silver Cord</a></li>
+            <li><a href="http://winkbooks.tumblr.com/">Wink</a></li>
+        </ul></div>
+		</div><div class="widget-odd widget-13 creative-commons-widget category">			<div class="textwidget"><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><strong>Creative Commons</strong></a></div>
+		</div><div class="widget-even widget-last widget-14 category"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>August 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://kk.org/cooltools/2020/07/">&laquo; Jul</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td><a href="https://kk.org/cooltools/2020/08/02/" title="Google Fonts/GPT-2 wisdom/Link Drop">2</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://kk.org/cooltools/2020/08/03/" title="Spring Tools Double Punch">3</a></td><td><a href="https://kk.org/cooltools/2020/08/04/" title="Kuhn Rikon Original Swiss Peeler
+Book Freak #47: Make Good Use of Your Emotions">4</a></td><td><a href="https://kk.org/cooltools/2020/08/05/" title="Opinel No 10 Carbon Steel Folding Knife
+What&#8217;s in my bag? — Mike Streetz">5</a></td><td><a href="https://kk.org/cooltools/2020/08/06/" title="Lock &amp; Lock Food Storage Containers
+Adding a Sharper to Your Tape Measure">6</a></td><td><a href="https://kk.org/cooltools/2020/08/07/" title="Jennifer Robbins, Designer">7</a></td><td>8</td><td><a href="https://kk.org/cooltools/2020/08/09/" title="First Reads/Drive &amp; Listen/Improved Dictanote">9</a></td>
+	</tr>
+	<tr>
+		<td>10</td><td><a href="https://kk.org/cooltools/2020/08/11/" title="DeWalt Welding Table vs. Harbor Freight">11</a></td><td><a href="https://kk.org/cooltools/2020/08/12/" title="What&#8217;s in my bag? — Amantha Imber">12</a></td><td><a href="https://kk.org/cooltools/2020/08/13/" title="TOYS! Leatherman Free P4">13</a></td><td><a href="https://kk.org/cooltools/2020/08/14/" title="Angela Eaton, Environmental Urbanist">14</a></td><td>15</td><td><a href="https://kk.org/cooltools/2020/08/16/" title="Wheelhouse/Fix broken parts/Comfort languages">16</a></td>
+	</tr>
+	<tr>
+		<td>17</td><td><a href="https://kk.org/cooltools/2020/08/18/" title="Punch Drunk Part 3: Transfer Punches">18</a></td><td><a href="https://kk.org/cooltools/2020/08/19/" title="DuraScoop Cat Litter Scoop
+What&#8217;s in my bag? — Betsy Delph">19</a></td><td><a href="https://kk.org/cooltools/2020/08/20/" title="Simple Trick for Determining 2.1mm or 2.5mm Barrel Jacks">20</a></td><td id="today"><a href="https://kk.org/cooltools/2020/08/21/" title="Ethernet-Over-Coax-Cable Converter
+Itamar Kubovy, curator of live experiences">21</a></td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div></div>
+    </div>
+  </section>
+  <script type="text/javascript">
+		Contextly.ready('load', "wp\/widgets", function() {
+		Contextly.WPSettings.setPostData(36866,{"ajax_nonce":"0d4147ba2c"});Contextly.ready("widgets");	});
+	</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CMA_Variables = {"messages":{"thanks_for_voting":"Thank you for voting!"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/cm-answers-pro-new/views/resources/script.js?ver=4.1.31'></script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/kk.org\/cooltools\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"446694138763690"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"kkcooltools"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kk.org/cooltools/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.1.31'></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+<div id="fb-root"></div>  <div class="modal-footer"></div>
+          
+  <div id="amzn-assoc-ad-dc58d5dd-b36e-498e-81aa-702b0184342f"></div>
+  <script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=dc58d5dd-b36e-498e-81aa-702b0184342f"></script>
+  <script>
+  $(function(){
+    $('.product-box').matchHeight();
+    // uncomment the next line to clear the modal_footer cookie in the case of an update
+    // document.cookie = "modal_footer=; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+    if (document.cookie.replace(/(?:(?:^|.*;\s*)modal_footer\s*\=\s*([^;]*).*$)|^.*$/, "$1") !== "true") {
+      $('.modal-footer').html('<p>By continuing to use this site you acknowledge that you accept our <a href="/cooltools/ctfaq/#qa-faq31720">cookie policy and terms of use</a>. You will only see this notice on your first visit.</p>');
+      document.cookie = "modal_footer=true; expires=Fri, 31 Dec 9999 23:59:59 GMT";
+    }
+  });
+  </script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 4.716 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-08-21 10:03:00 -->
+
+<!-- super cache -->
